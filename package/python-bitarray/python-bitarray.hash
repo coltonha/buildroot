@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/bitarray/json
+md5  59784521412ed5bacf4ff02e1d692ed3  bitarray-2.8.0.tar.gz
+sha256  cd69a926a3363e25e94a64408303283c59085be96d71524bdbe6bfc8da2e34e0  bitarray-2.8.0.tar.gz
+# Locally computed sha256 checksums
+sha256  45dbdb76770b0a279ee2e85e55282eda4f22a0d3eba1063d52ac09093b37ae93  LICENSE

@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_IJSON
+	bool "python-ijson"
+	help
+	  Iterative JSON parser with standard Python iterator
+	  interfaces.
+
+	  https://github.com/ICRAR/ijson

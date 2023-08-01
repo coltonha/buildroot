@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/ijson/json
+md5  19cbb9aa28d8c5a86a916515615dece7  ijson-3.2.3.tar.gz
+sha256  10294e9bf89cb713da05bc4790bdff616610432db561964827074898e174f917  ijson-3.2.3.tar.gz
+# Locally computed sha256 checksums
+sha256  e5c6f4cfe2d71620ea58a4aa9f9b1c61bf6b0e91fbd0e188e0998fe6c3cf8d00  LICENSE.txt

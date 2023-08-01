@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/jsondiff/json
+md5  aefe6e44567aeb4c88982498c0f1c61f  jsondiff-2.0.0.tar.gz
+sha256  2795844ef075ec8a2b8d385c4d59f5ea48b08e7180fce3cb2787be0db00b1fb4  jsondiff-2.0.0.tar.gz
+# Locally computed sha256 checksums
+sha256  1480d72ddb3b9d2d8d5dcd46e0c3581d11fa6846fbb905947ced1b2c7a38a4c4  LICENSE
